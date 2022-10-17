@@ -6,10 +6,20 @@
     text-decoration: none;
 }
 .principal{
-    align-items: center;
+    text-align: center;
+    color: white;
+    text-size: 4em:
+
+}
+
+.hero-imagem{
+    background-size: cover;
+    background-position: 0 0;
+}
+
+.info {
+    text-align: center;
+    margin: 10px auto;
+    }
+
     
-}
-
-,hero-imagem{
-
-}
